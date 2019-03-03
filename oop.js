@@ -99,4 +99,3 @@ const game = new Game(gladiator, monster)
 
 game.start()
 console.log(game.winner)
-game.winner
